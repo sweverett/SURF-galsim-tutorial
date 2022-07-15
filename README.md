@@ -1,2 +1,9 @@
 # SURF-galsim-tutorial
 Some tutorial materials for learning galsim, made for SURF (Caltech/JPL) 2022 students
+
+To get started:
+1. Pick your favorite spot for repositories (I use `~/HOME/repos/`) and go there
+2. Clone the repo! (`https://github.com/sweverett/SURF-galsim-tutorial.git`)
+3. Build the conda env from the `env.yaml` file: `conda env create -f environment.yml`
+4. Activate: `conda activate galsim-tutorial`
+5. Open the first notebook: `jupyter lab getting-started.ipnb`
