@@ -1,3 +1,5 @@
+import yaml
+
 def read_yaml(yaml_file):
     '''
     current package has a problem reading scientific notation as
